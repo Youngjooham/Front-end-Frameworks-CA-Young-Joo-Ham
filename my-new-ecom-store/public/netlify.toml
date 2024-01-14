@@ -1,4 +1,0 @@
-[build]
-  base = "my-new-ecom-store/"
-  publish = "my-new-ecom-store/build"
-  command = "npm run build"
