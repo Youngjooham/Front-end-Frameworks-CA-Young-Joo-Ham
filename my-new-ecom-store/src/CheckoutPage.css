@@ -1,0 +1,31 @@
+.checkout-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.checkout-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.checkout-item img {
+    width: 100px; 
+    height: auto;
+    margin-right: 20px;
+}
+
+.total-cost {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.checkout-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+}
