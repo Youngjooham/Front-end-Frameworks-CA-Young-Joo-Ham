@@ -1,10 +1,10 @@
-# Auksjonen
+# My New-Ecom-Store
 
 ## Description
 
-#### This website was made for my school JavaScript Frameworks CA 
+### This website was made for my school JavaScript Frameworks CA 
 
-### The brief: 
+#### The brief: 
 
 The API you are using for this brief is: https://v2.api.noroff.dev/online-shop
 
@@ -56,11 +56,11 @@ There will be a contact page which will contain a contact form with the followin
 ## Running
 To run the app, run the following commands:
 
--cd my-new-ecom-store
+- cd my-new-ecom-store
 
--npm start
+- npm start
 
--use the live server
+- Use the live server
 
 ## Contributing
 Young Joo Ham
