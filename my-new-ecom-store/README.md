@@ -1,4 +1,5 @@
 # My New-Ecom-Store
+![my ecom-store](https://github.com/Youngjooham/JavaScript-Frameworks-CA-Young-Joo-Ham/assets/100440331/5bcb7091-78c8-4fac-ac5f-c4d24f5eb664)
 
 ## Description
 
