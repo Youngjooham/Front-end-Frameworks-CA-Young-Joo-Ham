@@ -57,10 +57,10 @@ There will be a contact page which will contain a contact form with the followin
 ## Running
 To run the app, run the following commands:
 
-```
+```bash
 cd my-new-ecom-store
 ```
-```
+```bash
 npm start
 ```
 
