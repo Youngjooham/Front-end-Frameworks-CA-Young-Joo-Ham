@@ -4,16 +4,21 @@
 
 #### This website was made for my school JavaScript Frameworks CA 
 
-The brief: The API you are using for this brief is: https://v2.api.noroff.dev/online-shop
+### The brief: 
+
+The API you are using for this brief is: https://v2.api.noroff.dev/online-shop
 
 You can find individual items by appending a product ID at the end of the API URL e.g. https://v2.api.noroff.dev/online-shop/f99cafd2-bd40-4694-8b33-a6052f36b435
 
 You are tasked with build out the following pages for an eCom store:
 
-Homepage
-Individual product page
-Cart page
-Checkout success page
+-Homepage
+
+-Individual product page
+
+-Cart page
+
+-Checkout success page
 
 The Homepage should have a list of all the products. There should be a look-ahead search bar that filters products when typing in a product name. Clicking on a product should take a user to an individual product page.
 
@@ -50,9 +55,12 @@ There will be a contact page which will contain a contact form with the followin
 
 ## Running
 To run the app, run the following commands:
-cd my-new-ecom-store
-npm start
-use the live server
+
+-cd my-new-ecom-store
+
+-npm start
+
+-use the live server
 
 ## Contributing
 Young Joo Ham
@@ -60,4 +68,5 @@ Young Joo Ham
 ## Contact
 
 [My LinkedIn page](https://www.linkedin.com/in/youngjoo-ham-23b23395/?originalSubdomain=no)
+
 [My GitHub profile](https://github.com/Youngjooham)
