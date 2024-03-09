@@ -56,11 +56,15 @@ There will be a contact page which will contain a contact form with the followin
 ## Running
 To run the app, run the following commands:
 
-- cd my-new-ecom-store
-
-- npm start
+```
+cd my-new-ecom-store
+```
+```
+npm start
+```
 
 - Use the live server
+
 
 ## Contributing
 Young Joo Ham
